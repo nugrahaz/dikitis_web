@@ -29,10 +29,6 @@ You can see  <a href="dikitis.online">live demo website</a> 💬<br>
 <img src="https://github.com/nugrahaz/dikitis_web/assets/69227102/762f3640-efae-4c69-a317-d5edbb7fcaab" width="320" height="180">
 <img src="https://github.com/nugrahaz/dikitis_web/assets/69227102/01230b48-c91e-4b71-9978-97201eb72533" width="320" height="180">
 
-<img src="https://github.com/nugrahaz/dikitis_web/assets/69227102/19e3e590-d235-4249-8466-8f7135f8a67e" width="320" height="180">
-<img src="https://github.com/nugrahaz/dikitis_web/assets/69227102/d7f9a789-6344-4b8f-8ed9-4d14868d03d2" width="320" height="180">
-<img src="https://github.com/nugrahaz/dikitis_web/assets/69227102/528cae6f-3333-47f6-990b-7c21110958ad" width="320" height="180">
-
 
 ## Features
 - Login
