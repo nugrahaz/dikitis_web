@@ -1,0 +1,48 @@
+name: dikitis_web
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.5<4.0.0"
+
+# flutter build web --release --dart-define=FLUTTER_WEB_USE_SKIA=true --web-renderer html
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.6
+  auto_size_text: ^3.0.0
+  http: ^1.1.0
+  lottie: ^2.6.0
+  get: ^4.6.5
+  get_storage: ^2.1.1
+  connectivity_plus: ^4.0.2
+  intl: ^0.18.1
+  pin_code_fields: ^8.0.1
+
+
+dev_dependencies:
+  flutter_lints: ^2.0.3
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/lotties/
+    - assets/images/
+
+  fonts:
+    - family: poppins_bold
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+    - family: poppins_medium
+      fonts:
+        - asset: assets/fonts/Poppins-Medium.ttf
+    - family: poppins_semi_bold
+      fonts:
+        - asset: assets/fonts/Poppins-SemiBold.ttf
